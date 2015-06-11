@@ -4,8 +4,8 @@
 
 Summary: Set up repositories from various sources (ISO, RHN, YOU, rsync, http, ftp, ...)
 Name: mrepo
-Version: 0.8.8
-Release: 1
+Version: 0.8.9
+Release: 20150603gitb4206e4
 License: GPL
 Group: System Environment/Base
 URL: http://dag.wieers.com/home-made/mrepo/
