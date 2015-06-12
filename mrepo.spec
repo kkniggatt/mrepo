@@ -4,8 +4,8 @@
 
 Summary: Set up repositories from various sources (ISO, RHN, YOU, rsync, http, ftp, ...)
 Name: mrepo
-Version: 0.8.9
-Release: 20150603gitb4206e4
+Version: 0.8.10
+Release: 20150611gitE7F92E2
 License: GPL
 Group: System Environment/Base
 URL: http://dag.wieers.com/home-made/mrepo/
@@ -21,6 +21,7 @@ BuildRequires: /usr/bin/python2
 Requires: createrepo
 Requires: python >= 2.0
 Requires: pyOpenSSL
+Requires: hardlink
 Obsoletes: yam <= %{version}
 
 %description
